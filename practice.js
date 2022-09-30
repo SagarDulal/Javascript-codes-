@@ -26,4 +26,4 @@ if(hour ===0 && prepand === "AM"){
         prepand ="Midnight"
     }
 }
-console.log("Current time is " + hour +" "+prepand+ ": " +minute + ":" + seconds)
+console.log("Current time is " + hour +" "+prepand+ ": " +minute + ":" + seconds);
